@@ -1,0 +1,7 @@
+Etapes
+
+créer l'archi : dossier cont et model, public et view et actualiser les liens
+mettre les fichier dans les bons dossiers et les renommer si nécessaire : admin devient controller/backend.php et tt ce qui doit etre dans le model y va et revérifier les liens
+isoler le html général dans template.php et mettre le html de index dans les variables php $title et $content.
+
+
